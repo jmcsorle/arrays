@@ -28,3 +28,17 @@ var genderMale = [true, false, true, true];
 
 console.log(genderMale.pop());
 console.log(genderMale);
+
+//Understanding of Integers
+// Every piece of data in an array is called an element and every element has a position in an array. These positions are called "integers." Integer positions start at 0, so an array with 5 elements would have the following integer positions: 0, 1, 2, 3, 4.
+//The following code shows the work I completed on integer positions during the arrays assignment:
+
+// Declare a variable named friends that stores an Array of 5 Strings, each a friend's name.
+// Access the third element.
+// Access the last element.
+// Access the first element.
+
+var friends = ["John", "Judy", "Betty", "Sharron", "Whitney"];
+console.log(friends[2]);
+console.log(friends[4]);
+console.log(friends[0]);
