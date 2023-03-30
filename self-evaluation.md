@@ -1,0 +1,4 @@
+# Arrays Self-Evaluation for Jan McSorley
+- **How confident do you feel with the content on Arrays so far?** I feel marginally confident with arrays. I am still very dependent on my notes.
+- **Is there any additional learning you need or want to do before moving to the next lesson?** I just need more practice coding arrays and using methods.
+- **What questions do you have about Arrays?** I am having some difficulty understanding why you would want a boolean array. As I learn more, I am sure it will be easier to understand, but for now, I am having trouble envisioning the use case for arrays and am wondering if these are used in conjunction with backend data management, like mySQL?
